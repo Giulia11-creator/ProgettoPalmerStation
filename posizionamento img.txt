@@ -1,0 +1,4 @@
+  <div style="display: flex; flex-direction: column; gap: 30px; margin-left: 20px; position: relative;">
+          <!--<img src="img1.jpg" alt="" style="max-width: 375px; height: auto; margin-left: 0; border-radius: 15px; position: relative; top: -20px;">-->
+          <!--<img src="img2.jpg" alt="" style="max-width: 210px; height: auto; margin-left: 50px; margin-top: auto; border-radius: 15px;">-->
+    </div> 
